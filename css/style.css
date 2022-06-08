@@ -1,0 +1,71 @@
+*{
+    margin:0px;
+    padding:0px;
+}
+tbody{
+    background-color: rgb(5, 178, 247);
+    color: #fff;
+    border-radius: 15px;
+    padding: 10px 20px;
+}
+td{
+    padding: 10px 20px;
+    text-align: center;
+}
+td:hover{
+    background-color: aqua;
+    transition: 2s;
+    color: blue;
+}
+h1{
+    background-color: navy;
+    color: #fff;
+    display: inline-block;
+    padding: 2px 135px;
+}
+.zero{
+    background-color: rgb(19, 19, 234);
+}
+.one{
+    background-color: rgb(133, 178, 218);
+}
+.two{
+    background-color:  rgb(133, 178, 218);
+}
+.three{
+    background-color:  rgb(133, 178, 218);
+}
+.a{
+    background-color:  rgb(133, 178, 218);
+}
+.b{
+    background-color:  rgb(133, 178, 218);
+}
+.c{
+    background-color:  rgb(133, 178, 218);
+}
+.d{
+    background-color:  rgb(133, 178, 218);
+}
+.e{
+    background-color:  rgb(133, 178, 218);
+}
+.f{
+    background-color:  rgb(133, 178, 218);
+}
+.g{
+    background-color:  rgb(133, 178, 218);
+}
+.h{
+    background-color:  rgb(133, 178, 218);
+}
+.i{
+    background-color:  rgb(133, 178, 218);
+}
+.x{
+    background-color: green;
+}
+.yz{
+    text-align: left;
+    text-decoration: underline;
+}
